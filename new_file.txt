@@ -1,0 +1,2 @@
+Overwriting previous data
+Adding to my file with "a" mode!
